@@ -16,7 +16,7 @@ I like taking ideas from *“wait, what if we built this?”* to something peopl
 **Languages:** Python · Java · C · JavaScript  
 **Web:** HTML · CSS · JavaScript  
 **Tools:** Git · GitHub · VS Code · Canva  
-**Currently exploring:** Currently exploring: React · APIs · applied AI
+**Currently exploring:** React · APIs · applied AI
 
 ## A little beyond code
 
