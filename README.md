@@ -1,37 +1,42 @@
-# Hi, I'm Reva Shukla👋
+# Hi, I'm Reva Shukla 👋
 
-I'm a Computer Science Engineering student who enjoys building at the intersection of **technology, design, and real-world impact**.
+I'm a **Computer Science Engineering student** interested in software development, applied AI, and building technology that addresses real-world problems.
 
-I like taking ideas from *“wait, what if we built this?”* to something people can actually interact with.
+I enjoy turning ideas into functional applications, combining technical problem-solving with thoughtful design and user experience.
 
-## My Building Journey 🚀
+## Projects
 
-- 🍜 **BiteBase** — Where it all started! An India-centric recipe finder built around ingredients you already have.
-- 🐾 **PawConnect** — A pet adoption and animal welfare platform connecting adopters, shelters, and animal lovers.
-- 🧠 **SAHAY** — A mental health support platform exploring mood tracking, wellness tools, and patient–counsellor communication.
-- 🧩 **Fragment First** — A trauma-informed platform for organising fragmented experiences through guided documentation and AI-assisted structuring.
+A look at my development journey, from my first web application to more complex, collaborative projects.
 
-## Currently Building 🔨
+- **[BiteBase](https://github.com/Reva-Shukla/BiteBase)** — An India-centric recipe finder that helps users discover meals using available ingredients.
+- **[PawConnect](https://github.com/Reva-Shukla/PawConnect)** — A pet adoption and animal welfare platform connecting adopters, shelters, and communities.
+- **[SAHAY](https://github.com/Reva-Shukla/SAHAY)** — A mental health support platform featuring mood tracking, wellness tools, and patient–counsellor communication.
+- **[Fragment First](https://github.com/Reva-Shukla/Fragments-First)** — A trauma-informed platform for guided documentation and AI-assisted organisation of fragmented experiences.
 
-- 🌱 **FoodLoop** — Exploring technology-driven solutions for more sustainable and accessible food systems.
-- 🧬 **NavJyoti** — Building a child-health support platform focused on immunisation tracking, developmental milestones, and continuity of care.
-- 🧠 **SAHAY** — Expanding the platform with backend integration and connected patient–counsellor workflows.
+## Currently Working On
 
-## Tech I Work With 💻
+- **[FoodLoop](https://github.com/Reva-Shukla/FoodLoop)** — Exploring technology-driven approaches to food accessibility and sustainability.
+- **[NavJyoti](https://github.com/Reva-Shukla/NavJyoti)** — Developing a child-health platform focused on immunisation records, developmental milestones, and continuity of care.
+- **[SAHAY](https://github.com/Reva-Shukla/SAHAY)** — Working on backend development, database integration, and connecting patient–counsellor workflows.
 
-**Languages:** Python · Java · C · JavaScript · TypeScript  
-**Frontend:** HTML · CSS · React · Tailwind CSS  
-**Backend & Tools:** FastAPI · Git · GitHub · VS Code · Canva  
-**Currently exploring:** DSA · Full-stack Development · APIs · Applied AI
+## Technical Skills
 
-## Beyond Code 🎨
+**Languages:** Python · Java · C · JavaScript · TypeScript
 
-Before I started building with code, I built with **words, movement, and design**.
+**Frontend:** HTML · CSS · React · Tailwind CSS
 
-I'm a published author, a trained classical dancer, and a graphic designer — experiences that continue to shape how I think about storytelling, users, and the things I create.
+**Backend & Tools:** FastAPI · Git · GitHub · VS Code · Canva
 
-## Let's Connect on Linkedin!
+**Currently Learning:** Data Structures & Algorithms · Full-Stack Development · APIs · Applied AI
 
-Currently learning, building, and exploring opportunities for **Summer 2027**.
+## Beyond Technology
 
-Feel free to connect with me on LinkedIn!
+I'm also a **published author, trained classical dancer, and graphic designer**.
+
+My background in writing, performing arts, and design influences how I approach creativity, communication, and user-centred development.
+
+## Connect
+
+I'm currently exploring **Summer 2027 internship opportunities** in software engineering, full-stack development, and applied AI.
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/reva-shukla-a32271366/)**
