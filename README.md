@@ -16,7 +16,7 @@ A look at my development journey, from my first web application to more complex,
 ## Currently Working On
 
 - **[FoodLoop](https://github.com/Reva-Shukla/FoodLoop)** — Exploring technology-driven approaches to food accessibility and sustainability.
-- **[NavJyoti](https://github.com/Reva-Shukla/NavJyoti)** — Developing a child-health platform focused on immunisation records, developmental milestones, and continuity of care.
+- **[NavJyoti](https://github.com/JiyaAnand2608/NavJyoti)** — Developing a child-health platform focused on immunisation records, developmental milestones, and continuity of care.
 - **[SAHAY](https://github.com/Reva-Shukla/SAHAY)** — Working on backend development, database integration, and connecting patient–counsellor workflows.
 
 ## Technical Skills
